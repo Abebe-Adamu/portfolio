@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src",
-    "\\src\\components"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\components\\sidebar.jsx",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
