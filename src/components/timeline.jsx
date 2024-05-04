@@ -57,7 +57,7 @@ export default class Timeline extends Component {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2><a href="#"> Java Developer - Xion Computing </a> <span> March 2021 - July 2023</span></h2>
+                                                <h2><a href="#"> Freelance Java Developer - Xion Computing PLC(Remote) </a> <span> March 2021 - July 2023</span></h2>
                                                 <ul>
                                                     <li>
                                                         <p> <b> Microservice </b> -   Developed various microservices for client application such as Hotel Management, Manufacturing ERP Systems, Property and Rental Management, Wholesale & Retail using Spring Boot and Spring Cloud technologies.</p>
@@ -93,7 +93,7 @@ export default class Timeline extends Component {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2><a href="#"> Java Developer - HCL America</a> <span>Jan 2019 - Feb 2021</span></h2>
+                                                <h2><a href="#"> Associate Developer - HCL America</a> <span>Jan 2019 - Feb 2021</span></h2>
                                                 <ul>
                                                     <li>
                                                         <p> <b> Microservice </b> -   Developed microservices using Java Spring Boot, Hibernate, Restful services with good quality of code.</p>
