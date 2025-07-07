@@ -2,7 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\public\\images",
+    "\\src",
+    "\\src\\components",
+    "\\src\\resume"
   ],
+  "SelectedNode": "\\public\\images\\blog-1.jpg",
   "PreviewInSolutionExplorer": false
 }
