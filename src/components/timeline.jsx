@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2><a href="#"> Backend Application Developer - Right Tech Solution(Remote)</a> <span>June 2024 - Present</span></h2>
+                                                <h2><a href="#"> Java Backend Developer - Right Tech Solution(Remote)</a> <span>June 2024 - Present</span></h2>
                                                 <ul>
                                                     <li>
                                                         <p> <b> Backend Development </b> -   Developed and maintained scalable backend services for both mobile and web applications using Java and Spring Boot.</p>
@@ -92,7 +92,7 @@ export default class Timeline extends Component {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2><a href="#"> Freelance Java Developer - Xion Computing PLC(Remote) </a> <span> March 2021 - July 2023</span></h2>
+                                                <h2><a href="#"> Java Developer - Xion Computing PLC(Remote) </a> <span> March 2021 - July 2023</span></h2>
                                                 <ul>
                                                     <li>
                                                         <p> <b> Microservice </b> -   Developed various microservices for client application such as Hotel Management, Manufacturing ERP Systems, Property and Rental Management, Wholesale & Retail using Spring Boot and Spring Cloud technologies.</p>
@@ -128,7 +128,7 @@ export default class Timeline extends Component {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2><a href="#"> Associate Developer - HCL America</a> <span>Jan 2019 - Feb 2021</span></h2>
+                                                <h2><a href="#"> Associate Java Developer - HCL America</a> <span>Jan 2019 - Feb 2021</span></h2>
                                                 <ul>
                                                     <li>
                                                         <p> <b> Microservice </b> -   Developed microservices using Java Spring Boot, Hibernate, Restful services with good quality of code.</p>
@@ -158,30 +158,7 @@ export default class Timeline extends Component {
                                             </div>
                                         </div>
                                     </article>
-                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-                                        <div className="timeline-entry-inner">
-                                            <div className="timeline-icon color-4">
-                                                <i className="icon-pen2" />
-                                            </div>
-                                            <div className="timeline-label">
-                                                <h2><a href="#"> School Project - Kennesaw State University</a> <span>Spring, 2018</span></h2>
-                                                <ul>
-                                                    <li>
-                                                        <p> <b> Research </b> -  Conducted a research in memory database technology with a team of six students.</p>
-                                                    </li>
-                                                    <li>
-                                                        <p> <b> Requirement gathering  </b> -  Developed behavioral and non-behavioral requirements for a cache application that can scale up to 100 billion requests per month at associated peak usage.</p>
-                                                    </li>
-                                                    <li>
-                                                        <p> <b> POC  </b> - Presented a demo of high performance Data Caching mechanism using Hazelcast</p>
-                                                    </li>
-                                                    <li>
-                                                        <p> <b> Award</b> - Won second place in best undergraduate project prepared by Kennesaw College of Computing and Software Engineering.</p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </article>
+                                
                                     
                                    
                                 </div>
