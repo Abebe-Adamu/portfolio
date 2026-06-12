@@ -14,7 +14,8 @@ export default class About extends Component {
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p> Java | Spring | API | Cloud | Hibernate | Agile | Kafka | Pipeline | Container | Database</p>
-                                            <p> Iam a software developer  with experience in multiple settings can design and develop programs using the latest and most appropriate technology.  </p>
+                                            <p> Experienced Application Developer with a proven track record of designing, developing, and implementing enterprise applications across diverse business environments.Skilled in leveraging modern technologies,
+                                                frameworks, and best practices to build scalable, secure, and high-performance software solutions.  </p>
                                         </div>
                                     </div>
                                 </div>
